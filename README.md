@@ -13,3 +13,10 @@ Built with **Java Swing**, it allows users to add transactions, view them in a t
 ## How to Run
 1. Open terminal in `src` folder
 2. Compile all Java files:
+  ```
+javac *.java
+```  
+3.Run the Project : 
+```
+java Main
+```
